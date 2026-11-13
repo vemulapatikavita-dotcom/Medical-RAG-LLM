@@ -117,8 +117,8 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/THE-DEEPDAS/Medical-pathway-LLM.git
-   cd Medical-pathway-LLM
+   git clone https://github.com/vemulapatikavita-dotcom/Medical-RAG-LLM.git
+   cd Medical-RAG-LLM
    ```
 
 2. **Install dependencies**:
@@ -208,8 +208,4 @@ pip install -r requirements.txt
 ![3](<images/image%20(2).png>)
 ![1](images/image.png)
 
-## Contact
 
-For any questions or support, please contact:
-
-- **Deep Das**: deepdblm@gmail.com
